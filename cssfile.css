@@ -1,0 +1,11 @@
+h2{
+    color: red;
+    background-color: green;
+}
+body{
+    background-color: green;
+    background-image: url(gambar1.jpg);
+    background-attachment: scroll;
+    background-repeat: repeat;
+    
+}
